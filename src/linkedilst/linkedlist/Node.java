@@ -1,4 +1,4 @@
-package linkedlist;
+package linkedilst.linkedlist;
 
 //Node class represents each node in the Linked List
 public class Node {

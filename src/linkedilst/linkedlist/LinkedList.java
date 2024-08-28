@@ -1,4 +1,4 @@
-package linkedlist;
+package linkedilst.linkedlist;
 
 // LinkedList class represents the linked list itself
 public class LinkedList {
